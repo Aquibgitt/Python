@@ -1,2 +1,2 @@
 # Python
-revisiting python projects and brushing up fundamentals
+Revisiting Python concepts and building interesting  projects.
